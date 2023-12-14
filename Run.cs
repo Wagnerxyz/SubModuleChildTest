@@ -10,7 +10,7 @@ namespace SubModuleChild
     {
         public static int Run1()
         {
-            return 3;
+            return 5;
         }
     }
 }
